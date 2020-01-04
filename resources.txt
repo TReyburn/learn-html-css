@@ -1,0 +1,6 @@
+# HTML tag refs - https://www.w3schools.com/tags/
+# random image api: https://source.unsplash.com/
+# HTML block and inline elements: https://www.w3schools.com/html/html_blocks.asp
+# web safe fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
+# google fonts api: https://fonts.google.com/
+# css units (absolute and relative): https://www.w3schools.com/cssref/css_units.asp

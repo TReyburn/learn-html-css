@@ -1,3 +1,0 @@
-# HTML tag refs - https://www.w3schools.com/tags/
-# random image api: https://source.unsplash.com/
-# HTML block and inline elements: https://www.w3schools.com/html/html_blocks.asp

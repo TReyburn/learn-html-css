@@ -28,7 +28,7 @@ body {
     margin-bottom: 5px;
 }
 
-/* nested selector - separate by space - only seems to be able to nest 1 layer deep*/
+/* nested selector - separate by space - can nest as deep as you want*/
 #welcome p {
     font-size: 20px;
 }
