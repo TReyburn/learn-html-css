@@ -8,6 +8,10 @@ body {
     font-weight: bold;
 }
 
+#about p {
+    font-family: 'Shadows Into Light', cursive;
+}
+
 #about p span {
     font-style: italic;
 }
