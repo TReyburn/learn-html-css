@@ -1,0 +1,39 @@
+/*  tag : applies style to elements w/ tag
+    #id : applies style to elements w/ id
+    .class : applies style to elements w/ class
+
+    can use this in more specific combinations.
+    i.e. tag.class#id or tag#id or .class#id - etc
+*/
+
+/* tag selector */
+body {
+    background-color: #333;
+}
+
+/* class selector */
+.primary-heading {
+    color: green;
+}
+
+/* id selector */
+#welcome {
+    background-color: #f4f4f4;
+}
+
+/* multiple selectors - separate selectors by comma */
+#welcome, #about {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+/* nested selector - separate by space - only seems to be able to nest 1 layer deep*/
+#welcome p {
+    font-size: 20px;
+}
+
+/* id selector */
+#about {
+    color: white;
+}
