@@ -1,0 +1,14 @@
+h1 {
+    /* color by name */
+    color: firebrick;
+}
+
+h2 {
+    /* color by RGB value */
+    color: rgb(20, 100, 190);
+}
+
+h3 {
+    /* color by hexidecimal */
+    color: #1A1B1C;
+}

@@ -4,3 +4,4 @@
 # web safe fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
 # google fonts api: https://fonts.google.com/
 # css units (absolute and relative): https://www.w3schools.com/cssref/css_units.asp
+# hex color reference: https://www.color-hex.com/
