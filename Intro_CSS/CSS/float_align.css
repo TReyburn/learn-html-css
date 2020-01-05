@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+
+.container {
+    /* use max-width instead of width - as this is key for responsive design. Text will wrap if the screen is more narrow than our page */
+    max-width: 960px;
+    margin: 30px auto;
+}
+
+.clr {
+    clear: both;
+}
+
+.box {
+    background: #f4f4f4;
+    border: 1px solid #333;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.box p {
+    /* by default text is aligned to left */
+    text-align: justify;
+}
+
+#box-2 {
+    float: left;
+    width: 68%;
+}
+
+#box-3 {
+    float: right;
+    width: 30%;
+}
