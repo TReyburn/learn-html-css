@@ -1,0 +1,47 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    /* box sizing : boder-box forces our box to maintain its given width and not expand with margin/padding */
+    box-sizing: border-box;
+}
+
+.box {
+    background: #f4f4f4;
+    border: 2px #777777 solid;
+    width: 500px;
+
+    /* padding on all sides */
+    padding: 20px;
+
+    /* padding per side - will override the padding config above*/
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px; 
+
+    /* padding shorthands = top, right, bottom left */
+    padding: 10px 20px 10px 20px;
+
+    /* because our top/bottom and right/left are the same - we can shorthand even further - padding: top/bottom left/right*/
+    padding: 10px 20px;
+
+    /* margin on all sides */
+    margin: 20px;
+
+    /* margin per side - will override the margin config above*/
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px; 
+
+    /* margin shorthands = top, right, bottom left */
+    margin: 10px 20px 10px 20px;
+
+    /* because our top/bottom and right/left are the same - we can shorthand even further - margin: top/bottom left/right*/
+    margin: 10px 20px;
+}
+
+.box h3 {
+    padding-bottom: 10px;
+}
