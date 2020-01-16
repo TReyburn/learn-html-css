@@ -29,7 +29,7 @@
   .form-wrap h1,
   .form-wrap p {
       text-align: center;
-      margin: 10px 15px;
+      /* margin: 10px 15px; */
   }
 
   .form-wrap .form-group {
