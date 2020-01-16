@@ -1,0 +1,39 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: coral;
+    /* text-decoration: underline; */
+}
+
+/* :visited pseudo selector controls what happens when a link has already been clicked on in previous browser sessions */
+/* a:visited {
+    color: crimson;
+} */
+
+/* :active pseudo selector controls the style of a link when actively being pressed by a mouse click */
+a:active {
+    color: crimson;
+}
+
+/* Button sytling */
+.btn {
+    background: #4c6ca0;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: #f4f4f4;
+    background: #446190;
+}
