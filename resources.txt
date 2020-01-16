@@ -5,3 +5,4 @@
 # google fonts api: https://fonts.google.com/
 # css units (absolute and relative): https://www.w3schools.com/cssref/css_units.asp
 # hex color reference: https://www.color-hex.com/
+# high quality stock images: https://www.pexels.com/
