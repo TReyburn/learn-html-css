@@ -1,0 +1,36 @@
+.container {
+    background: #555;
+    display: flex;
+    flex-wrap: wrap;
+    /* align items horizontal */
+    justify-content: space-evenly;
+    height: 600px;
+    /* align items vertical (must be a height) */
+    align-items: flex-start;
+    /* Align items vertical where there's extra space */
+    /* align-content: space-between; */
+}
+
+.item-1 {
+    order: 3;
+}
+
+.item-2 {
+    order: 2;
+    /* align single item vertical */
+    align-self: center;
+}
+
+.item-3 {
+    order: 1;
+}
+
+.item {
+    background: #f4f4f4;
+    border: #ccc solid 1px;
+    text-align: center;
+    padding: 1rem;
+    margin: 0.5rem;
+    flex-basis: 200px;
+}
+
